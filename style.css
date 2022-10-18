@@ -1,0 +1,15 @@
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+:root {
+    --GRAYSCALE_WHITE: #FFFFFF;
+    --GRAYSCALE_LIGHTRAY: #D9D9D9;
+    --GRAYSCALE_10: #9C9C9C;
+    --GRAYSCALE_30: #3C3C3C;
+    --GRAYSCALE_50: #333333;
+    --GRAYSCALE_70: #141414;
+    --GRAYSCALE_BLACK: #000000;
+    --PRIMARY_BLUE_100: #2C3878;
+}
